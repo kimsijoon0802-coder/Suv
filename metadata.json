@@ -1,0 +1,5 @@
+{
+  "name": "Survivor Web",
+  "description": "A roguelike survival game inspired by Survivor.io (탕탕특공대). Survive waves of enemies, collect gems, and upgrade your skills.",
+  "requestFramePermissions": []
+}
